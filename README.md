@@ -1,4 +1,4 @@
-<!-- https://github.com/Amerikanu -->
+<!-- https://github.com/Donground/ZombieAttack -->
 
 ## About
 
